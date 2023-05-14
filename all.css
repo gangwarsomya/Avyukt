@@ -1,0 +1,36 @@
+*{
+    background-color: #772f1a;
+ }
+h1{
+    background-color: #eec170;
+    font-size :xx-large;
+    font-weight: 200;
+    font-family: 'Kaushan Script' ;
+
+    
+}
+h4{
+    color: #f58549 ;
+    text-align: center;
+    letter-spacing: normal;
+    line-height: normal;
+    word-spacing:0ch;
+    font-size: larger;
+}
+h3{
+    color:#eec170;
+
+}
+h2{
+    color:#eec170;
+    text-align: center;
+    text-decoration: underline;
+}
+h5{
+    text-align: right;
+    color:#eec170
+}
+a{
+    color:#eec170;
+}
+ 

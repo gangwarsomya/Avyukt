@@ -1,0 +1,49 @@
+h1
+{   color: #722f1a;
+    font: bold;
+    font-family: 'Kalam', cursive;
+    font-size:50px;
+    align-self: center;
+    background-color: #f58549;
+
+}
+
+h3
+{   color:#f58549;
+    font: italic;
+    font-family: 'Kalam', cursive;
+    font-size: larger;
+}
+
+*
+{   background-color: #eec170;
+    box-sizing: content-box ;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 40px;  
+    font-family: 'Kalam', cursive;
+    border-top: 10px #722f1a;
+    border-bottom: 10px #722f1a;
+    border-bottom-right-radius: 5px;
+
+}
+
+img{
+    margin-left: 300px ;
+    width: 300px;
+    height: 300px;
+    border-width: 10px;
+    border-color: #f58549;
+}
+
+p{
+    font-family: 'Kalam', cursive;
+    color: #585123;
+    line-height: 100%;
+    font-size: x-large;
+}
+h4{
+    font-family: 'Kalam', cursive;
+    font-weight: 400px;
+}

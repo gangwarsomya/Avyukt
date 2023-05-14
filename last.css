@@ -1,0 +1,22 @@
+*{
+    background-color: #772f1a;
+ }
+h1{
+    background-color: #eec170;
+    font-size :xx-large;
+    font-weight: 200;
+    font-family: 'Kaushan Script' ;
+
+    
+}
+p{
+    color:#eec170;
+    line-height: 2rem;
+    
+}
+strong{
+    text-decoration: underline;
+}
+a{
+    color:#eec170;
+}
